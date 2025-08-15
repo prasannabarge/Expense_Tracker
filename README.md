@@ -22,7 +22,7 @@ Use - symbol to add your expenses in the amount
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
 | Dashboard |
 |-----------|
