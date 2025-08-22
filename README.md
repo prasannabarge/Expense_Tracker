@@ -46,4 +46,4 @@ Use - symbol to add your expenses in the amount
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/prasannabarge/expense-tracker.git
+   git clone https://github.com/prasannabarge/Expense_Tracker.git
